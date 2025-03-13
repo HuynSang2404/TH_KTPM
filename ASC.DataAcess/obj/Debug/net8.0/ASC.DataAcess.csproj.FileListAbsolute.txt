@@ -1,0 +1,54 @@
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.csproj.AssemblyReference.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.AssemblyInfoInputs.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.AssemblyInfo.cs
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.csproj.CoreCompileInputs.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.deps.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\bin\Debug\net8.0\ASC.Model.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\bin\Debug\net8.0\ASC.Utilities.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\bin\Debug\net8.0\ASC.Model.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.Data.397ABBAD.Up2Date
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\refint\ASC.DataAcess.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ref\ASC.DataAcess.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.sourcelink.json
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.deps.json
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\bin\Debug\net8.0\ASC.Model.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\bin\Debug\net8.0\ASC.Utilities.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\bin\Debug\net8.0\ASC.Model.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.csproj.AssemblyReference.cache
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.AssemblyInfoInputs.cache
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.AssemblyInfo.cs
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.csproj.CoreCompileInputs.cache
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.sourcelink.json
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.Data.397ABBAD.Up2Date
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\refint\ASC.DataAcess.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPMH2-master\ASC.DataAcess\obj\Debug\net8.0\ref\ASC.DataAcess.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.deps.json
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\bin\Debug\net8.0\ASC.DataAcess.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\bin\Debug\net8.0\ASC.Model.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\bin\Debug\net8.0\ASC.Utilities.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\bin\Debug\net8.0\ASC.Model.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.csproj.AssemblyReference.cache
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.AssemblyInfoInputs.cache
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.AssemblyInfo.cs
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.csproj.CoreCompileInputs.cache
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.sourcelink.json
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.Data.397ABBAD.Up2Date
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\refint\ASC.DataAcess.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ASC.DataAcess.pdb
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.DataAcess\obj\Debug\net8.0\ref\ASC.DataAcess.dll

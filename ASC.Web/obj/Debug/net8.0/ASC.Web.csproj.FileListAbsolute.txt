@@ -1016,3 +1016,7 @@ E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\obj\Debug\net8.0\refint\ASC.Web.dll
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\obj\Debug\net8.0\ASC.Web.pdb
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\obj\Debug\net8.0\ASC.Web.genruntimeconfig.cache
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\obj\Debug\net8.0\ref\ASC.Web.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\bin\Debug\net8.0\Navigation\Navigation.json
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\bin\Debug\net8.0\MailKit.dll
+E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Web\bin\Debug\net8.0\MimeKit.dll

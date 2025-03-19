@@ -3,6 +3,7 @@ using ASC.DataAccess.Interfaces;
 using ASC.Solution.Services;
 using ASC.Web.Configuration;
 using ASC.Web.Data;
+using ASC.Web.Data.ASC.Web.Data;
 using ASC.Web.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -42,6 +43,11 @@ builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
 builder.Services.AddSingleton<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+builder.Services.AddDistributedMemoryCache();//
+builder.Services.AddSingleton<INavigationCacheOperations, NavigationCacheOperations>();//
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -77,5 +83,10 @@ using (var scope = app.Services.CreateScope())
         scope.ServiceProvider.GetService<IOptions<ApplicationSettings>>()
     );
 }
-
+//CreateNavigationCache
+using (var scope = app.Services.CreateScope())
+{
+    var navigationCacheOperations = scope.ServiceProvider.GetRequiredService<INavigationCacheOperations>();
+    await navigationCacheOperations.CreateNavigationCacheAsync();
+}
 app.Run();

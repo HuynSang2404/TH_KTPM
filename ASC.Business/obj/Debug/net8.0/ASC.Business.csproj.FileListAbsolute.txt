@@ -33,3 +33,15 @@ E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\bin\Debug\net8.0\ASC.Business.deps.json
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\bin\Debug\net8.0\ASC.Business.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\bin\Debug\net8.0\ASC.Business.pdb
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ASC.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfoInputs.cache
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfo.cs
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ASC.Business.csproj.CoreCompileInputs.cache
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ASC.Business.sourcelink.json
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll

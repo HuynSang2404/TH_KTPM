@@ -36,3 +36,16 @@ E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
 E:\School\Năm3_HK2\KTTKPM\KTTKPM\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+E:\School\Năm3_HK2\KTTKPM\TH_KTPM\TH_KTPM\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll

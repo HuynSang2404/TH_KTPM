@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {}
+    "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {}
   },
   "projects": {
-    "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {
+    "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj",
+        "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.DataAcess\\ASC.DataAcess.csproj",
         "projectName": "ASC.DataAcess",
-        "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj",
+        "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.DataAcess\\ASC.DataAcess.csproj",
         "packagesPath": "C:\\Users\\sinfo\\.nuget\\packages\\",
-        "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.DataAcess\\obj\\",
+        "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.DataAcess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\ASC.Model.csproj"
+              "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\ASC.Model.csproj"
               },
-              "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
+              "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\ASC.Model.csproj": {
+    "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\sinfo\\.nuget\\packages\\",
-        "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\obj\\",
+        "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -151,14 +151,14 @@
         }
       }
     },
-    "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\sinfo\\.nuget\\packages\\",
-        "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\obj\\",
+        "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

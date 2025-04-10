@@ -8762,11 +8762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Web\\ASC.Web.csproj",
+      "projectUniqueName": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Web\\ASC.Web.csproj",
       "projectName": "ASC.Web",
-      "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Web\\ASC.Web.csproj",
+      "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Web\\ASC.Web.csproj",
       "packagesPath": "C:\\Users\\sinfo\\.nuget\\packages\\",
-      "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Web\\obj\\",
+      "outputPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8787,17 +8787,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Business\\ASC.Business.csproj": {
-              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Business\\ASC.Business.csproj"
+            "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Business\\ASC.Business.csproj": {
+              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Business\\ASC.Business.csproj"
             },
-            "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {
-              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj"
+            "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {
+              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.DataAcess\\ASC.DataAcess.csproj"
             },
-            "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\ASC.Model.csproj": {
-              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Model\\ASC.Model.csproj"
+            "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\ASC.Model.csproj": {
+              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Model\\ASC.Model.csproj"
             },
-            "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
-              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\KTTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
+            "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+              "projectPath": "E:\\School\\Năm3_HK2\\KTTKPM\\TH_KTPM\\TH_KTPM\\ASC.Utilities\\ASC.Utilities.csproj"
             }
           }
         }
